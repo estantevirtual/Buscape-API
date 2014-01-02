@@ -1,0 +1,1005 @@
+{
+    "product": [
+        {
+            "product": {
+                "totalsellers": 10,
+                "fulldescription": false,
+                "pricemax": "19.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-audiolivro-machado-de-assis-858008105x.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1858008105&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "12.93",
+                "numoffers": 10,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1858008105,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/X50/081/200x200_858008105X.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1858008105&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1858008105&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Audiolivro - Machado de Assis (858008105X)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 9,
+                "fulldescription": false,
+                "pricemax": "28.00",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-assis-machado-de-8586583421.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1858658342&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "18.20",
+                "numoffers": 9,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1858658342,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/124/583/200x200_8586583421.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1858658342&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1858658342&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memorias Postumas de Bras Cubas - Assis, Machado De (8586583421)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 8,
+                "fulldescription": false,
+                "pricemax": "28.00",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-audiolivro-machado-de-assis-856099727x.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1856099727&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "9.90",
+                "numoffers": 8,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1856099727,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/X72/997/200x200_856099727X.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1856099727&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1856099727&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Audiolivro - Machado de Assis (856099727X)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 8,
+                "fulldescription": false,
+                "pricemax": "18.00",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-bestbolso-machado-de-assis-8577991768.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1857799176&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "8.91",
+                "numoffers": 8,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1857799176,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/867/991/200x200_8577991768.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1857799176&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1857799176&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Bestbolso - Machado de Assis (8577991768)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 8,
+                "fulldescription": false,
+                "pricemax": "13.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-machado-de-assis-8526283278.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1852628327&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "11.82",
+                "numoffers": 8,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1852628327,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/872/283/200x200_8526283278.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1852628327&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1852628327&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - - Machado de Assis (8526283278)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 8,
+                "fulldescription": false,
+                "pricemax": "28.00",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-machado-de-assis-856199827x.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1856199827&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "19.27",
+                "numoffers": 8,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1856199827,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/X72/998/200x200_856199827X.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1856199827&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1856199827&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Machado de Assis (856199827X)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 8,
+                "fulldescription": false,
+                "pricemax": "15.04",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-pocket-assis-machado-8525406872.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1852540687&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "9.80",
+                "numoffers": 8,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1852540687,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/278/406/200x200_8525406872.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1852540687&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1852540687&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memorias Postumas de Bras Cubas [Pocket] - Assis, Machado (8525406872)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 7,
+                "fulldescription": false,
+                "pricemax": "17.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-colecao-a-obra-prima-de-cada-autor-machado-assis-8572322949.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1857232294&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "8.91",
+                "numoffers": 7,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1857232294,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/949/322/200x200_8572322949.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1857232294&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1857232294&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "10.0",
+                        "numcomments": 2
+                    }
+                },
+                "eco": false,
+                "productname": "Memorias Postumas de Bras Cubas Colecao a Obra Prima de Cada Autor - Machado Assis (8572322949)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 7,
+                "fulldescription": false,
+                "pricemax": "71.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-dom-casmurro-e-quincas-borba-machado-de-assis-8525044997.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1852504499&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "30.52",
+                "numoffers": 7,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1852504499,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/799/044/200x200_8525044997.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1852504499&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1852504499&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas, Dom Casmurro e Quincas Borba - Machado de Assis (8525044997)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 7,
+                "fulldescription": false,
+                "pricemax": "19.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-machado-de-assis-8504007677.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1850400767&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "11.90",
+                "numoffers": 8,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1850400767,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/776/007/200x200_8504007677.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1850400767&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1850400767&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Machado de Assis (8504007677)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 7,
+                "fulldescription": false,
+                "pricemax": "26.00",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-machado-de-assis-857480598x.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1857480598&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "20.00",
+                "numoffers": 7,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1857480598,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/X89/805/200x200_857480598X.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1857480598&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1857480598&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Machado de Assis (857480598X)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 6,
+                "fulldescription": false,
+                "pricemax": "30.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-col-classicos-saraiva-nova-ortografia-machado-de-assis-8502082191.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1850208219&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "24.90",
+                "numoffers": 6,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1850208219,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/191/082/200x200_8502082191.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1850208219&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1850208219&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Bras Cubas - Col. Clássicos Saraiva - Nova Ortografia - Machado de Assis (8502082191)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 5,
+                "fulldescription": false,
+                "pricemax": "9.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-machado-de-assis-857398709x.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1857398709&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "7.64",
+                "numoffers": 5,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1857398709,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/X90/987/200x200_857398709X.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1857398709&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1857398709&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Machado de Assis (857398709X)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 4,
+                "fulldescription": false,
+                "pricemax": "29.50",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-30-ed-col-bom-livro-machado-de-assis-8508154151.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1850815415&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "25.08",
+                "numoffers": 4,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1850815415,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/151/154/200x200_8508154151.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1850815415&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1850815415&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - 30ª Ed. - Col. Bom Livro - Machado de Assis (8508154151)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 4,
+                "fulldescription": false,
+                "pricemax": "21.00",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-audiolivro-machado-de-assis-8560125183.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1856012518&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "18.90",
+                "numoffers": 4,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1856012518,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/381/125/200x200_8560125183.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1856012518&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1856012518&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Audiolivro - Machado de Assis (8560125183)"
+            }
+        },
+        {
+            "product": {
+                "totalsellers": 4,
+                "fulldescription": false,
+                "pricemax": "30.90",
+                "hasmetasearch": false,
+                "links": [
+                    {
+                        "link": {
+                            "type": "product",
+                            "url": "http://compare.buscape.com.br/memorias-postumas-de-bras-cubas-col-grandes-leituras-machado-de-assis-8532275222.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                        }
+                    },
+                    {
+                        "link": {
+                            "type": "xml",
+                            "url": "http://sandbox.buscape.com/service/findOfferList/2b34444a304659516947343d/br/?productId=1853227522&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                        }
+                    }
+                ],
+                "pricemin": "26.27",
+                "numoffers": 4,
+                "currency": {
+                    "abbreviation": "BRL"
+                },
+                "id": 1853227522,
+                "categoryid": 3482,
+                "thumbnail": {
+                    "url": "http://imagem.buscape.com.br/capas/livros/222/275/200x200_8532275222.jpg"
+                },
+                "specification": {
+                    "links": [
+                        {
+                            "link": {
+                                "type": "xml",
+                                "url": "http://sandbox.buscape.com/service/viewProductDetails/2b34444a304659516947343d/br/?productId=1853227522&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                            }
+                        }
+                    ]
+                },
+                "quantity": 0,
+                "rating": {
+                    "useraveragerating": {
+                        "links": [
+                            {
+                                "link": {
+                                    "type": "xml",
+                                    "url": "http://sandbox.buscape.com/service/viewUserRatings/2b34444a304659516947343d/br/?productId=1853227522&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                                }
+                            }
+                        ],
+                        "rating": "0.0",
+                        "numcomments": 0
+                    }
+                },
+                "eco": false,
+                "productname": "Memórias Póstumas de Brás Cubas - Col. Grandes Leituras - Machado de Assis (8532275222)"
+            }
+        }
+    ],
+    "category": {
+        "id": 3482,
+        "thumbnail": {
+            "url": "http://imagem.buscape.com.br/bp5/categorias/3482.jpg"
+        },
+        "concatenatecategoryname": false,
+        "name": "Livros",
+        "hasoffer": false,
+        "parentcategoryid": 0,
+        "links": [
+            {
+                "link": {
+                    "type": "category",
+                    "url": "http://compare.buscape.com.br/livros.html?mdsrc=9262544&mdapp=2877&mddtn=51922611"
+                }
+            },
+            {
+                "link": {
+                    "type": "xml",
+                    "url": "http://sandbox.buscape.com/service/findProductList/2b34444a304659516947343d/br/?categoryId=3482&keyword=machado+de+assis+memorias+postumas+de+bras+cubas&sourceId=9262544"
+                }
+            }
+        ],
+        "isfinal": true
+    },
+    "details": {
+        "message": "success",
+        "status": "success",
+        "elapsedtime": 2,
+        "code": 0,
+        "date": {
+            "minute": 0,
+            "valid": true,
+            "timezone": -120,
+            "second": 56,
+            "millisecond": 850,
+            "month": 1,
+            "year": 2014,
+            "day": 2,
+            "hour": 18,
+            "xmlschematype": {
+                "namespaceuri": "http://www.w3.org/2001/XMLSchema",
+                "prefix": "",
+                "localpart": "dateTime"
+            },
+            "eonandyear": {
+                "lowestsetbit": 1
+            }
+        },
+        "applicationid": "2b34444a304659516947343d"
+    },
+    "page": 1,
+    "totallooseoffers": 0,
+    "totalresultsavailable": 68,
+    "totalpages": 5,
+    "match": "all",
+    "totalresultsreturned": 16
+}
