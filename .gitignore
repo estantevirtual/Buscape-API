@@ -1,3 +1,5 @@
+local/
+vendor/
 perltidy.LOG
 .project
 blib/
