@@ -1,0 +1,7 @@
+This file documents the revision history for Perl extension Buscape::API.
+
+0.000002    2014-01-15
+                - Adicionando depenências de teste no cpanfile
+
+0.000001    2014-01-13
+                - Release da versão inicial

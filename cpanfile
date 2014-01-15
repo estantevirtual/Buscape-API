@@ -8,5 +8,9 @@ on 'configure' => sub {
     requires 'ExtUtils::MakeMaker' => '6.30';
 };
 
-on 'test'    => sub { };
+on 'test' => sub {
+    requires 'Test::Most' => '0.31';
+    requires 'JSON'       => '2.53';
+    requires 'List::Util' => '1.21';
+};
 on 'develop' => sub { };
