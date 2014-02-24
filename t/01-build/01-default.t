@@ -7,7 +7,10 @@ use Test::Most;
 
 use Buscape::API;
 
-my $agent = Buscape::API->new( app_id => 'foobar' );
+my $agent = Buscape::API->new(
+    app_id    => 'foobar',
+    source_id => 'etc123',
+);
 
 ok( $agent->app_id eq 'foobar',               'Application ID' );
 ok( $agent->env eq 'sandbox',                 'Ambiente default' );

@@ -12,7 +12,11 @@ use Fake::UA;
 use JSON qw{ from_json };
 use List::Util qw{ min max };
 
-my $agent = Buscape::API->new( app_id => 'foobar', ua => Fake::UA->new );
+my $agent = Buscape::API->new(
+    app_id    => 'foobar',
+    source_id => 'etc123',
+    ua        => Fake::UA->new,
+);
 
 my $res = $agent->query(
     'method'     => 'find_product_list',

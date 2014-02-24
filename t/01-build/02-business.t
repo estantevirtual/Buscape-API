@@ -10,11 +10,12 @@ use lib 't/lib';
 use Fake::UA;
 
 my $agent = Buscape::API->new(
-    app_id  => 'foobar',
-    env     => 'business',
-    country => 'AR',
-    format  => 'xml',
-    ua      => Fake::UA->new,
+    app_id    => 'foobar',
+    source_id => 'etc123',
+    env       => 'business',
+    country   => 'AR',
+    format    => 'xml',
+    ua        => Fake::UA->new,
 );
 
 ok( $agent->app_id eq 'foobar',           'Application ID' );
